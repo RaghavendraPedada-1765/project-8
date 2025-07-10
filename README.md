@@ -1,1 +1,2 @@
-# project-8
+
+**Simple ChatGPT** is a lightweight and easy-to-use chatbot application that leverages OpenAI's GPT-3.5 (or GPT-4) API to provide natural and engaging conversational experiences. Designed for simplicity, it enables users to quickly set up and integrate a conversational AI into their projects or websites with minimal configuration. The project features straightforward code, clear instructions, and flexible customization options, making it accessible for developers of all skill levels. Whether you're building a customer support bot, an interactive assistant, or just experimenting with AI-powered chat, Simple ChatGPT offers a clean and effective starting point.
